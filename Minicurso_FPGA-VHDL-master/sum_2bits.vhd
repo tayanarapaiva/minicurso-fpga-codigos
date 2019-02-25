@@ -1,7 +1,7 @@
 -- Somador 2 bits (com vetores)
 -- Portas: Entradas: in_a (vetor 2 posições), in_b (vetor 2 posições) / Saídas: out_soma (vetor 3 posições)
 -- Autores: João Vitor e Marcos Meira
--- Modificado por: EDMILA DE MACEDO
+-- Modificado por: tayanara paiva
 -- Data: 12/12/18
 
 library IEEE;
