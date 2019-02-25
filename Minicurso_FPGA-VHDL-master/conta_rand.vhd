@@ -3,7 +3,7 @@
 -- ENTRADAS: CLK_IN, RESET
 -- SAIDAS: HEX0
 -- DATA: 10/02/2018
--- MODIFICADO POR: EDMILA DE MACEDO
+-- MODIFICADO POR: tayanara paiva
  
 library IEEE;                                                        
 use IEEE.std_logic_1164.all;
