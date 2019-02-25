@@ -2,7 +2,7 @@
 -- Entradas: clk (clock), reset;
 -- Saída: q (Vetor 4 posições tipo BCD)
 -- Autores: João Vitor e Marcos Meira
--- Modificado por: EDMILA DE MACEDO
+-- Modificado por: tayanara paiva
  
 library IEEE;                                                        
 use IEEE.std_logic_1164.all;
