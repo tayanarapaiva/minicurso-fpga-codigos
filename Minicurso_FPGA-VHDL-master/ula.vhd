@@ -1,7 +1,7 @@
 -- ULA com 4 bits de entrada e 5 bits de saida, opcode com 6 operacoes
 -- Autores: Joao Vitor e Marcos Meira
 -- Data 28/07/2017
--- Modificado por:EDMILA DE MACEDO
+-- Modificado por:tayanara paiva
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
