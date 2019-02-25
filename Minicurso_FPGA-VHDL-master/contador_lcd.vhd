@@ -1,4 +1,4 @@
--- Modificado por: EDMILA DE MACEDO
+-- Modificado por: tayanara paiva
 -- PARAMETROS LCD
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
