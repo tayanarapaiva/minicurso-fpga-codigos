@@ -1,7 +1,7 @@
 -- Somador 2 bits
 -- Portas Entradas in_a0, in_a1, in_b0, in_b1 (tipo bit) / Saídas out_0, out_1, cout (tipo bit)
 -- Autores: João Vitor e Marcos Meira
--- Alterado por: EDMILA DE MACEDO
+-- Alterado por:tayanara paiva
 -- Data: 05/12/2018
  
 entity sum_2bitss is
