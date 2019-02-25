@@ -2,7 +2,7 @@
 -- Portas: clk_in (entrada std_logic), q (saida std_logic)
 -- Autores: Joao Vitor e Marcos Meira
 -- Data: 19/12/2018
--- Modificado por: EDMILA DE MACEDO
+-- Modificado por: tayanara paiva
  
 library IEEE;
 use IEEE.std_logic_1164.all;
